@@ -1,0 +1,15 @@
+{
+  "name": "airbnb-styleguide-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "airbnb-styleguide-setup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ora": "^3.1.0"
+  }
+}
