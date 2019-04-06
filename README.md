@@ -6,7 +6,7 @@ A nodejs script that will setup Prettier and ESLint using the Airbnb styleguide 
 * For the changes to fully take effect, you must have the prettier extension installed in your text editor (only tested on vscode)
 
 ## Running the script
-1. Once you have cloned the repo, run `npm install` to install the loading spinner (the script will still work without this, but it gives you more visual feedback as to the progress of the script)
+1. Once you have cloned the repo, run `npm install`
 
 2. Navigate to your project into the folder where your `package.json` is and run `node ~/airbnb-styleguide-prettier-eslint-setup/setup-airbnb-styleguide.js`
 
